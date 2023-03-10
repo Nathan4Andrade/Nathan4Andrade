@@ -16,8 +16,8 @@
   
   <div align="left">
   <a href="https://github.com/Nathan4Andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan4Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan4Andrade&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan4Andrade&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan4Andrade&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
 
 <div align="left" style="display: inline_block"><br>
