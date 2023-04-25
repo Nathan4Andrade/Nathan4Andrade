@@ -1,7 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c46500&height=70&section=header"/>
-<div align="right" height="590em">
-  
-  </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8582c&height=70&section=header"/>
+<div align="right" height="590em"></div>
 
 ## Hi, I'm Nathan Andrade! 🦊
 
@@ -38,12 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan4Andrade&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan4Andrade&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
-  
-
-
-
-  ##
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c46500&height=70&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8582c&height=70&section=footer"/>
 
 
 
