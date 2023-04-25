@@ -1,6 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8582c&height=70&section=header"/>
-<div align="right" height="590em"></div>
-
 ## Hi, I'm Nathan Andrade! 🦊
 
 - 🎓 I’m a Computer Science student at <a href="https://portal.ufcg.edu.br/">UFCG</a></em>
