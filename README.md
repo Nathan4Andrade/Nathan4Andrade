@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d8582c&height=90&section=header"/>
+
 ## Hi, I'm Nathan Andrade! 🦊
 
 - 🌱 Full stack web developer;
