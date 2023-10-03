@@ -3,6 +3,9 @@
 
 ## <p align="left">Hi, I'm Nathan! 🦊</p>
 
+[![An image of @nathan4andrade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nathan4andrade)](https://holopin.io/@nathan4andrade)
+
+
 
 - 🌱 Full stack web developer;
 - 🎓 I’m a Computer Science student at <a href="https://portal.ufcg.edu.br/">UFCG</a></em>
